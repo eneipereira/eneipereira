@@ -29,6 +29,7 @@
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" height="40" width="40" title="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" height="40" width="40" title="TS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" height="40" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
+  <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" height="40" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img align="center" height="40" width="40" title="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://expressjs.com" target="_blank"><img align="center" height="40" width="40" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img align="center" height="40" width="40" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></a>
