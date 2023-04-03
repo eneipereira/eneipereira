@@ -14,9 +14,9 @@
 <div align="justify">
   <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 26 anos, sou do RJ e sou programador em formação há quase 1 ano.</i>
   <br/>
-  <i>Atualmente sou <b>Estudante</b> de Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, estou no último módulo, <b>Ciência da Computação</b>, com previsão de formatura para Dezembro/2022.</i>
+  <i>Sou formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</i>
   <br/>
-  <i>Atualmente estou aprendendo mais sobre <b>Python</b>.</i>
+  <i>Atualmente estou aprendendo mais sobre <b>Cloud(AWS)</b> e <b> Dados </b>.</i>
 </div>
 
 -----
