@@ -12,7 +12,7 @@
 
 ### Sobre mim:
 <div align="justify">
-  <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 26 anos, sou do RJ e sou programador em formação há pouco mais de 1 ano.</i>
+  <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 27 anos, sou do RJ e sou programador em formação há pouco mais de 1 ano.</i>
   <br/>
   <i>Sou formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</i>
   <br/>
