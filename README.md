@@ -16,7 +16,9 @@
   <br/>
   <i>Sou formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</i>
   <br/>
-  <i>Atualmente estou aprendendo mais sobre <b>Cloud(AWS)</b> e <b> Dados </b>.</i>
+  <i>Estou estudando Cloud Computing, com foco em <b>AWS</b>, na <a href="https://escoladanuvem.org/" target="_blank">Escola da Nuvem</a>.</i>
+  <br/>
+  <i>E, em breve, começarei o Curso de Data Analytics do <a href=" https://www.coursera.org/professional-certificates/google-data-analytics" target="_blank">Google</a>.</i>
 </div>
 
 -----
