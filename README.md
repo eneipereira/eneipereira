@@ -28,6 +28,7 @@
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" height="40" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" height="40" width="40" title="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" height="40" width="40" title="TS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img align="center" height="50" width="50" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" height="40" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
   <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" height="40" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img align="center" height="40" width="40" title="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
