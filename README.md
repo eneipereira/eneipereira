@@ -14,9 +14,14 @@
 <div align="justify">
   <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 27 anos, sou do RJ e sou programador em formação há pouco mais de 1 ano.</i>
   <br/>
-  <i>Sou formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</i>
   <br/>
-  <i>Estou estudando Cloud Computing, com foco em <b>AWS</b>, na <a href="https://escoladanuvem.org/" target="_blank">Escola da Nuvem</a>.</i>
+  <i>Sou formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Possuo uma inclinação maior para a área de Backend.</i>
+  <br/>
+  <br/>
+  <i>Concluí o curso <b>AWS re/start</b>, na <a href="https://escoladanuvem.org/" target="_blank">Escola da Nuvem</a>, que me auxiliou na obtenção da certificação <b>AWS Cloud Pratictioner</b>.</i>
+  <br/>
+  <br/>
+  <i>Tenho interesse em aprender novas linguagens, como o <b>Go</b> e o <b>Rust</b>.</i>
 </div>
 
 -----
@@ -28,7 +33,7 @@
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" height="40" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" height="40" width="40" title="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" height="40" width="40" title="TS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img align="center" height="50" width="50" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img align="center" height="50" width="50" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" height="40" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
   <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" height="40" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img align="center" height="40" width="40" title="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
