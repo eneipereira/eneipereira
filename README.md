@@ -12,16 +12,19 @@
 
 ### Sobre mim:
 <div align="justify">
-  <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 28 anos, sou do RJ e sou programador em formação há pouco mais de 1 ano.</i>
+  <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 28 anos, sou do RJ e sou programador em formação há quase 2 anos.</i>
   <br/>
   <br/>
-  <i>Sou formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Possuo uma inclinação maior para a área de Backend.</i>
+  <i>Formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Possuo uma inclinação maior para a área de Backend.</i>
   <br/>
   <br/>
-  <i>Concluí o curso <b>AWS re/start</b>, na <a href="https://escoladanuvem.org/" target="_blank">Escola da Nuvem</a>, que me auxiliou na obtenção da certificação <b>AWS Cloud Pratictioner</b>.</i>
+  <i>Cursando Engenharia de Software pela <a href="https://estacio.br/">Estácio</a></i>
   <br/>
   <br/>
-  <i>Tenho interesse em aprender novas linguagens, como o <b>Go</b> e o <b>Rust</b>.</i>
+  <i>Possuo a certificação <b>AWS Cloud Pratictioner</b> e estou me preparando para tirar a <b>Solutions Architect AWS</b></i>
+  <br/>
+  <br/>
+  <i>Tenho interesse em aprender novas linguagens, como <b>C#</b>, <b>Go</b> e <b>Rust</b>.</i>
 </div>
 
 -----
