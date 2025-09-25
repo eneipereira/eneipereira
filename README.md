@@ -50,6 +50,10 @@
   <a href="https://www.heroku.com/" target="_blank"><img align="center" height="40" width="40" title="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" /></a>
   <a href="https://ubuntu.com/" target="_blank"><img align="center" height="40" width="40" title="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" height="40" width="40" title="Vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
+  <a href="https://www.dataiku.com/" target="_blank"><img align="center" height="40" width="40" title="Dataiku" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Dataiku_logo.svg" /></a>
+  <a href="https://powerapps.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Apps" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_Power_Apps_logo.svg" /></a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Automate" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_Power_Automate_logo.svg" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /></a>
 </div>
 
 -----
