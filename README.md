@@ -50,9 +50,9 @@
   <a href="https://www.heroku.com/" target="_blank"><img align="center" height="40" width="40" title="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" /></a>
   <a href="https://ubuntu.com/" target="_blank"><img align="center" height="40" width="40" title="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" height="40" width="40" title="Vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
-  <a href="https://powerapps.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Apps" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Microsoft_PowerApps_logo.svg" /></a>
-  <a href="https://powerautomate.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Automate" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_PowerAutomate_logo.svg" /></a>
-  <a href="https://www.dataiku.com/" target="_blank"><img align="center" height="40" width="40" title="Dataiku" src="https://logo.clearbit.com/dataiku.com" /></a>
+  <a href="https://powerapps.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Apps" src="https://img.icons8.com/?id=3F2VZIDZHSb7&format=png" /></a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Automate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/1200px-Microsoft_Power_Automate.svg.png" /></a>
+  <a href="https://www.dataiku.com/" target="_blank"><img align="center" height="40" width="40" title="Dataiku" src="https://www.gartner.com/pi/vendorimages/dataiku_data-science-and-machine-learning-platforms_1669746672441.png" /></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /></a>
 </div>
 
