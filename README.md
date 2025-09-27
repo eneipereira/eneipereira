@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.github.com/eneipereira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin/in/eneipereira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eneipereira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:eneipereira.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:eneipereira@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://wa.me/5521974063278" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -50,6 +50,10 @@
   <a href="https://www.heroku.com/" target="_blank"><img align="center" height="40" width="40" title="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" /></a>
   <a href="https://ubuntu.com/" target="_blank"><img align="center" height="40" width="40" title="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" height="40" width="40" title="Vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
+  <a href="https://powerapps.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Apps" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Microsoft_PowerApps_logo.svg" /></a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Automate" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_PowerAutomate_logo.svg" /></a>
+  <a href="https://www.dataiku.com/" target="_blank"><img align="center" height="40" width="40" title="Dataiku" src="https://logo.clearbit.com/dataiku.com" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /></a>
 </div>
 
 -----
