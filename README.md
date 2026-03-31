@@ -12,7 +12,7 @@
 
 ### Sobre mim:
 <div align="justify">
-  <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 29 anos, sou do RJ e sou programador há 2 anose alguns meses.</i>
+  <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 29 anos, sou do RJ e sou programador há 2 anos e alguns meses.</i>
   <br/>
   <br/>
   <i>Formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Possuo uma inclinação maior para a área de Backend.</i>
@@ -59,6 +59,6 @@
 -----
 
 <div>
-  <img width="410px" align="center" src="https://github-readme-stats.vercel.app/api?username=eneipereira&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img width="410px" height="161.51px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneipereira&layout=compact&theme=dark#gh-dark-mode-only" />
+  <img width="410px" align="center" src="./profile/stats.svg" />
+  <img width="410px" height="165px" align="center" src="./profile/top-langs.svg" />
  </div>
