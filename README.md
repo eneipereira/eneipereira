@@ -12,16 +12,18 @@
 
 ### Sobre mim:
 <div align="justify">
-  <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 29 anos, sou do RJ e sou programador há 2 anos e alguns meses.</i>
+  <i><b>Olá</b> :wave:, sou o <b>Enei Pereira</b>, tenho 29 anos, sou do RJ e sou programador em constante aprendizado há 3 anos e alguns meses.</i>
   <br/>
   <br/>
   <i>Formado em Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Possuo uma inclinação maior para a área de Backend.</i>
   <br/>
   <br/>
   <i>Cursando Engenharia de Software pela <a href="https://estacio.br/">Estácio</a></i>
+  e
+  <i>Tecnólogo em Banco de Dados pela <a href="https://portal.pucrs.br/">PUCRS</a></i>
   <br/>
   <br/>
-  <i>Possuo as certificações <b>AWS Cloud Practitioner</b>, <b>AWS Developer Associate</b>, <b>AZ-900</b>, <b>AI-900</b> e estou me preparando para tirar a <b>AI-102</b> e a <b>DP-300</b></i>
+  <i>Possuo as certificações <b>AWS Cloud Practitioner</b>, <b>AWS Developer Associate</b>, <b>AZ-900</b>, <b>AI-900</b></i>
   <br/>
   <br/>
   <i>Tenho interesse em aprender novas linguagens, como <b>C#</b>, <b>Go</b> e <b>Rust</b>.</i>
