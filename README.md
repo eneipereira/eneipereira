@@ -38,7 +38,9 @@
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" height="40" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" height="40" width="40" title="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" height="40" width="40" title="TS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img align="center" height="50" width="50" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
+  <a href="https://www.java.com/pt-br/" target="_blank"><img align="center" height="40" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" /></a>
+  <a href="https://spring.io/" target="_blank"><img align="center" height="40" width="40" title="Spring" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img align="center" height="40" width="40" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" height="40" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
   <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" height="40" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img align="center" height="40" width="40" title="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
@@ -53,8 +55,8 @@
   <a href="https://ubuntu.com/" target="_blank"><img align="center" height="40" width="40" title="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" height="40" width="40" title="Vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
   <a href="https://powerapps.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Apps" src="https://img.icons8.com/?id=3F2VZIDZHSb7&format=png" /></a>
-  <a href="https://powerautomate.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Automate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/1200px-Microsoft_Power_Automate.svg.png" /></a>
-  <a href="https://www.dataiku.com/" target="_blank"><img align="center" height="40" width="40" title="Dataiku" src="https://www.gartner.com/pi/vendorimages/dataiku_data-science-and-machine-learning-platforms_1669746672441.png" /></a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power Automate" src="https://github.com/user-attachments/assets/290eaabb-4b66-424f-8e96-805935989cdb"/></a>
+  <a href="https://www.dataiku.com/" target="_blank"><img align="center" height="40" width="40" title="Dataiku" src="https://github.com/user-attachments/assets/edc79472-6544-4578-9266-9900713f8d78"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img align="center" height="40" width="40" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /></a>
 </div>
 
